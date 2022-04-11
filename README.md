@@ -1,1 +1,1 @@
-# AR-anatomischeObjekte
+# Augmented Reality (AR) - anatomische Objekte
